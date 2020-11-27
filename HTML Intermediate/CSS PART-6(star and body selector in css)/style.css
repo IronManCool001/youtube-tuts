@@ -1,0 +1,17 @@
+*{
+    margin: 3px;
+    color: blue;
+}
+
+body {
+    background-color: brown;
+}
+
+.t2{
+    background-color: black;
+}
+
+.box {
+    margin-left: 50%;
+    margin-top: 50%;
+}

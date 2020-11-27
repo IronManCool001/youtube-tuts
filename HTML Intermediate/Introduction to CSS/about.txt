@@ -1,0 +1,28 @@
+CSS --> C + S + S
+              Cascading Styling Sheets
+<head>
+<link rel="stylesheet" href="css/style.css">
+</head>
+Syntax :
+object to be selected : {
+ property: value;
+}
+
+E.g: h1 {
+ color: blue;
+}
+
+<div class="h" >Hello World</div>
+<div class="h" id="b">Hello World</div>
+<div class="h">Hello World</div>
+
+.h {
+ color:blue;
+}
+
+#b {
+ background-color:red;
+}
+
+id is specific to one object
+class is applicable to all object with same class

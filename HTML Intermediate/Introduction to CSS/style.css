@@ -1,0 +1,20 @@
+/* Without using class */
+h1 {
+	color: blue;
+	margin: auto;
+	font-family: algerian;
+}
+/*With using class */
+
+.p1 {
+	color: red;
+	background-color: black;
+}
+
+/* Using <div> tag */
+
+.d1{
+	color: yellow;
+	background-color: blue;
+	font-family: sans-serif;
+}

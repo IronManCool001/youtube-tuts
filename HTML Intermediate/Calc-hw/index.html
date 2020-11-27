@@ -1,0 +1,32 @@
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <title>Calculator</title>
+        <link rel="stylesheet" href="https://freshui.netlify.app/css/fresh-ui.min.css">
+        <link rel="stylesheet" href="css/style.css">
+    </head>
+    <body>
+        <center>
+        <h1 id="cal">Calculator</h1>
+       <div class="box"> 
+        first number: <br>
+        <input type="text" id="n1"><br>
+        second number: <br>
+        <input type="text" id="n2"><br><br>
+       </div>
+       <br><br>
+        <div class="style">
+        <button type="button" onclick="add()" class="btn btn-fr-ui">Add</button>
+        <button type="button" onclick="multiply()" class="btn btn-fr-ui">multiply</button>
+        <button type="button" onclick="divide()" class="btn btn-fr-ui">divide</button>
+        <button type="button" onclick="substract()" class="btn btn-fr-ui">substract</button>
+       </div>
+       <br><br>
+    <div id="result">
+       <h1>Result: </h1>
+       <h2 id="res"></h2>
+   </div>
+   </center>
+        <script src="js/index.js"></script>
+    </body>
+</html>

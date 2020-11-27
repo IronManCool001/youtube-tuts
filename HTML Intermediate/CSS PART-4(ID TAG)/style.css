@@ -1,0 +1,24 @@
+.id{
+    color: darkturquoise;
+    border: darkviolet 16px solid;
+    border-radius: 16px;
+}
+
+#apple {
+    color:crimson;
+    border: darkslategrey 12px solid;
+    border-radius: 16px;
+}
+
+.new{
+    color: royalblue;
+    font-size: 42px;
+    font-family: sans-serif;
+}
+
+#n {
+    font-size: 50px;
+    font-family: cursive;
+    border: blue 10px solid;
+    border-radius: 16px;
+}

@@ -1,0 +1,18 @@
+a{
+    text-decoration: none;
+}
+
+.youtube-link{
+    color:#282828;
+    background-color: red;
+}
+
+.btn-rounded{
+    border-radius: 12px;
+}
+
+
+.btn-youtube{
+    background-color:red;
+    color:#282828;
+}

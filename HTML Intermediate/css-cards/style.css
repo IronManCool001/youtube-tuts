@@ -1,0 +1,28 @@
+.card{
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width:50%;
+    border-radius: 6px;
+    text-align: center;
+    align-items: center;
+}
+
+.card:hover{
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.5);
+}
+
+.card img{
+    border-radius: 12px;
+}
+
+.primary{
+    background-color:#2196f3;
+    color:white;
+    font-family: 'Open Sans',sans-serif;
+}
+
+.secondary{
+    background-color:#2be271;
+    color:white;
+    font-family: 'Open Sans',sans-serif;
+}

@@ -1,0 +1,35 @@
+.hw1 {
+    color: blue;
+}
+
+.hw2 {
+    color: red;
+}
+
+.hw3 {
+    color: green;
+}
+
+.hw4{
+    color: turquoise;
+}
+
+.thought {
+    color: grey;
+    background-color:yellow;
+    border: aqua 12px solid;
+    border-radius: 12px;
+}
+
+#t2 {
+    color: blue;
+    background-color: white;
+    border: crimson 10px solid;
+    border-radius:16px;
+}
+
+.q{
+    color: chocolate;
+    border: crimson 12px solid;
+    border-radius: 16px;
+}
